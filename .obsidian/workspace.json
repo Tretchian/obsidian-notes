@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "4e55c96463536f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "b14786e81caeeef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6637bea4e9d780",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc5b0847c60cc0f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf087eaf3a8ac4bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e2e304e3c079cc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "20ff87c363d726bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6fa5a58ac9ef75c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71aa04dc131b95ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a28f9a406a5bc3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c5e2f1b2291b27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Умные мысли.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Умные мысли"
+            }
+          },
+          {
+            "id": "0438e374bf58c8c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Дейли/2025-06-06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2025-06-06"
+            }
+          },
+          {
+            "id": "6f7161684b1a2427",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a3cce4cd97194eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "e86f237be2392aca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 444.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e86f237be2392aca",
+  "lastOpenFiles": [
+    "2025-06-07.md",
+    "2025-06-06.md",
+    "Дейли/2025-06-06.md",
+    "Дейли",
+    "Без названия.md",
+    "Фокусировка внимания.md",
+    "Как правильно отдыхать.md",
+    "Список моих бед.md",
+    "Умные мысли.md",
+    "Список дел.md",
+    "Welcome.md"
+  ]
+}
